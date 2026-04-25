@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "tropicraft:block/papaya_leaves1" },
+			{ "model": "tropicraft:block/papaya_leaves2" },
+			{ "model": "tropicraft:block/papaya_leaves3" },
+			{ "model": "tropicraft:block/papaya_leaves4" },
+			{ "model": "tropicraft:block/papaya_leaves5" },
+			{ "model": "tropicraft:block/papaya_leaves6" },
+			{ "model": "tropicraft:block/papaya_leaves7" },
+			{ "model": "tropicraft:block/papaya_leaves8" }
+		]
+    }
+}

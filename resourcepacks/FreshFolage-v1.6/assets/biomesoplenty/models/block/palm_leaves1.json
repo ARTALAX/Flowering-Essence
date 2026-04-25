@@ -1,0 +1,6 @@
+{
+    "parent": "freshfolage:block/leaves1",
+    "textures": {
+        "all": "biomesoplenty:block/folage_palm_leaves"
+    }
+}

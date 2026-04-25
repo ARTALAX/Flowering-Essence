@@ -1,0 +1,6 @@
+{
+    "parent": "freshfolage:block/leaves",
+    "textures": {
+        "all":"fruitsdelight:block/folage_hawberry_leaves"
+    }
+}

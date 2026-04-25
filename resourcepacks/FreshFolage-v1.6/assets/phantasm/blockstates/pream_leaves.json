@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "phantasm:block/pream_leaves" },
+			{ "model": "phantasm:block/pream_leaves2" },
+			{ "model": "phantasm:block/pream_leaves3" },
+			{ "model": "phantasm:block/pream_leaves4" },
+			{ "model": "phantasm:block/pream_leaves5" },
+			{ "model": "phantasm:block/pream_leaves6" },
+			{ "model": "phantasm:block/pream_leaves7" },
+			{ "model": "phantasm:block/pream_leaves8" }
+		]
+    }
+}

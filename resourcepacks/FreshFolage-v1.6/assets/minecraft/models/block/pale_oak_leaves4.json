@@ -1,0 +1,6 @@
+{
+    "parent": "freshfolage:block/leaves4",
+    "textures": {
+        "all": "minecraft:block/folage_pale_oak_leaves"
+    }
+}

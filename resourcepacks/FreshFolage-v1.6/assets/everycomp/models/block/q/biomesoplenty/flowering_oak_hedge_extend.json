@@ -1,0 +1,7 @@
+{
+  "parent": "quark:block/hedge_extend",
+  "textures": {
+    "log": "everycomp:block/pine_log",
+    "leaf": "everycomp:block/flowering_oak_leaves"
+  }
+}

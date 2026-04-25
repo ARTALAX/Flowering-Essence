@@ -1,0 +1,7 @@
+{
+    "parent": "freshfolage:block/leaves_overlay",
+    "textures": {
+        "all": "biomesoplenty:block/folage_pine_leaves",
+        "overlay": "biomesoplenty:block/pine_leaves_overlay"
+    }
+}

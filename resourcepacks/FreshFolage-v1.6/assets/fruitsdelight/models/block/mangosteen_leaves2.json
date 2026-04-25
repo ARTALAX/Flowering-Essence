@@ -1,0 +1,6 @@
+{
+    "parent": "freshfolage:block/leaves2",
+    "textures": {
+        "all":"fruitsdelight:block/folage_mangosteen_leaves"
+    }
+}

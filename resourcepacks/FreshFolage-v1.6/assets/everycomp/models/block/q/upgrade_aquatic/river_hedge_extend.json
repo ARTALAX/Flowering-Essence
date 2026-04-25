@@ -1,0 +1,7 @@
+{
+  "parent": "quark:block/hedge_extend",
+  "textures": {
+    "log": "everycomp:block/river_log_top",
+    "leaf": "everycomp:block/river_leaves"
+  }
+}

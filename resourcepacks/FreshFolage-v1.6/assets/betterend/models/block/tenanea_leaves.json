@@ -1,0 +1,6 @@
+{
+    "parent": "freshfolage:block/leaves",
+    "textures": {
+        "all": "betterend:block/folage_tenanea_leaves"
+    }
+}

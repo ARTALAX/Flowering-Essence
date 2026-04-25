@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "tropicraft:block/blue_flowering_leaves1" },
+			{ "model": "tropicraft:block/blue_flowering_leaves2" },
+			{ "model": "tropicraft:block/blue_flowering_leaves3" },
+			{ "model": "tropicraft:block/blue_flowering_leaves4" },
+			{ "model": "tropicraft:block/blue_flowering_leaves5" },
+			{ "model": "tropicraft:block/blue_flowering_leaves6" },
+			{ "model": "tropicraft:block/blue_flowering_leaves7" },
+			{ "model": "tropicraft:block/blue_flowering_leaves8" }
+		]
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "freshfolage:block/leaves4",
+    "textures": {
+        "all":"fruitsdelight:block/folage_lychee_leaves"
+    }
+}

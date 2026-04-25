@@ -1,0 +1,6 @@
+{
+  "parent": "quark:block/hedge_side",
+  "textures": {
+    "leaf": "everycomp:block/pine_leaves"
+  }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "freshfolage:block/leaves3",
+    "textures": {
+        "all": "betterend:block/folage_shadow_berry_leaves"
+    }
+}

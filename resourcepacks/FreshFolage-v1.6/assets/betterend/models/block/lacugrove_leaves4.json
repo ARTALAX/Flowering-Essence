@@ -1,0 +1,6 @@
+{
+    "parent": "freshfolage:block/leaves4",
+    "textures": {
+        "all": "betterend:block/folage_lacugrove_leaves"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "tropicraft:block/grapefruit_leaves1" },
+			{ "model": "tropicraft:block/grapefruit_leaves2" },
+			{ "model": "tropicraft:block/grapefruit_leaves3" },
+			{ "model": "tropicraft:block/grapefruit_leaves4" },
+			{ "model": "tropicraft:block/grapefruit_leaves5" },
+			{ "model": "tropicraft:block/grapefruit_leaves6" },
+			{ "model": "tropicraft:block/grapefruit_leaves7" },
+			{ "model": "tropicraft:block/grapefruit_leaves8" }
+		]
+    }
+}

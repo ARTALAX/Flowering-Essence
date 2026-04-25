@@ -1,0 +1,6 @@
+{
+    "parent": "freshfolage:block/leaves",
+    "textures": {
+        "all": "vinery:block/grapevine_leaves"
+    }
+}

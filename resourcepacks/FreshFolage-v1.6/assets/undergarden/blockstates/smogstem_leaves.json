@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "undergarden:block/smogstem_leaves1" },
+			{ "model": "undergarden:block/smogstem_leaves2" },
+			{ "model": "undergarden:block/smogstem_leaves3" },
+			{ "model": "undergarden:block/smogstem_leaves4" },
+			{ "model": "undergarden:block/smogstem_leaves5" },
+			{ "model": "undergarden:block/smogstem_leaves6" },
+			{ "model": "undergarden:block/smogstem_leaves7" },
+			{ "model": "undergarden:block/smogstem_leaves8" }
+		]
+    }
+}

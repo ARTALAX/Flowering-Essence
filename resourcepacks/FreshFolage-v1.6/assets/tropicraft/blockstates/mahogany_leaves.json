@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "tropicraft:block/mahogany_leaves1" },
+			{ "model": "tropicraft:block/mahogany_leaves2" },
+			{ "model": "tropicraft:block/mahogany_leaves3" },
+			{ "model": "tropicraft:block/mahogany_leaves4" },
+			{ "model": "tropicraft:block/mahogany_leaves5" },
+			{ "model": "tropicraft:block/mahogany_leaves6" },
+			{ "model": "tropicraft:block/mahogany_leaves7" },
+			{ "model": "tropicraft:block/mahogany_leaves8" }
+		]
+    }
+}

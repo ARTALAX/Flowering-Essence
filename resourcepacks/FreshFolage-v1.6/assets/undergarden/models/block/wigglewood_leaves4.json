@@ -1,0 +1,6 @@
+{
+    "parent":"block/leaves4",
+    "textures": {
+        "0":"undergarden:block/wigglewood_leaves"
+    }
+}

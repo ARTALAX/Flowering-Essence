@@ -1,0 +1,6 @@
+{
+    "parent": "freshfolage:block/leaves",
+    "textures": {
+        "all":"nethers_exoticism:block/folage_jaboticaba_leaves"
+    }
+}

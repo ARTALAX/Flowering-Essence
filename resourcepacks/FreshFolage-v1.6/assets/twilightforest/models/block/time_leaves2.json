@@ -1,0 +1,6 @@
+{
+    "parent": "freshfolage:block/leaves2",
+    "textures": {
+        "all": "twilightforest:block/folage_time_leaves"
+    }
+}

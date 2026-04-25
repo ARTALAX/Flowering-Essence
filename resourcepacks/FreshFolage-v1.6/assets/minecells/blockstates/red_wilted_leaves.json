@@ -1,0 +1,66 @@
+{
+    "variants": {
+        "": [
+            {
+                "model": "minecells:block/red_wilted_leaves1"
+            },
+            {
+                "model": "minecells:block/red_wilted_leaves1",
+                "y": 90
+            },
+            {
+                "model": "minecells:block/red_wilted_leaves1",
+                "y": 180
+            },
+            {
+                "model": "minecells:block/red_wilted_leaves1",
+                "y": 270
+            },
+            {
+                "model": "minecells:block/red_wilted_leaves2"
+            },
+            {
+                "model": "minecells:block/red_wilted_leaves2",
+                "y": 90
+            },
+            {
+                "model": "minecells:block/red_wilted_leaves2",
+                "y": 180
+            },
+            {
+                "model": "minecells:block/red_wilted_leaves2",
+                "y": 270
+            },
+            {
+                "model": "minecells:block/red_wilted_leaves3"
+            },
+            {
+                "model": "minecells:block/red_wilted_leaves3",
+                "y": 90
+            },
+            {
+                "model": "minecells:block/red_wilted_leaves3",
+                "y": 180
+            },
+            {
+                "model": "minecells:block/red_wilted_leaves3",
+                "y": 270
+            },
+            {
+                "model": "minecells:block/red_wilted_leaves4"
+            },
+            {
+                "model": "minecells:block/red_wilted_leaves4",
+                "y": 90
+            },
+            {
+                "model": "minecells:block/red_wilted_leaves4",
+                "y": 180
+            },
+            {
+                "model": "minecells:block/red_wilted_leaves4",
+                "y": 270
+            }
+        ]
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "freshfolage:block/leaves1",
+    "textures": {
+        "all":"sn0wfrogs_capybaras:block/folage_mandarin_leaves"
+    }
+}

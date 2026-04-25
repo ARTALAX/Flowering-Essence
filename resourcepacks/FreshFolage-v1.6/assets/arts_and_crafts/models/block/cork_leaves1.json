@@ -1,0 +1,6 @@
+{
+    "parent": "freshfolage:block/leaves1",
+    "textures": {
+        "all": "arts_and_crafts:block/folage_cork_leaves"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "variants": {
+        "": [
+            {
+                "model": "sn0wfrogs_capybaras:block/flowering_mandarin_leaves1"
+            },
+            {
+                "model": "sn0wfrogs_capybaras:block/flowering_mandarin_leaves1",
+                "y": 90
+            },
+            {
+                "model": "sn0wfrogs_capybaras:block/flowering_mandarin_leaves1",
+                "y": 180
+            },
+            {
+                "model": "sn0wfrogs_capybaras:block/flowering_mandarin_leaves1",
+                "y": 270
+            },
+            {
+                "model": "sn0wfrogs_capybaras:block/flowering_mandarin_leaves2"
+            },
+            {
+                "model": "sn0wfrogs_capybaras:block/flowering_mandarin_leaves2",
+                "y": 90
+            },
+            {
+                "model": "sn0wfrogs_capybaras:block/flowering_mandarin_leaves2",
+                "y": 180
+            },
+            {
+                "model": "sn0wfrogs_capybaras:block/flowering_mandarin_leaves2",
+                "y": 270
+            },
+            {
+                "model": "sn0wfrogs_capybaras:block/flowering_mandarin_leaves3"
+            },
+            {
+                "model": "sn0wfrogs_capybaras:block/flowering_mandarin_leaves3",
+                "y": 90
+            },
+            {
+                "model": "sn0wfrogs_capybaras:block/flowering_mandarin_leaves3",
+                "y": 180
+            },
+            {
+                "model": "sn0wfrogs_capybaras:block/flowering_mandarin_leaves3",
+                "y": 270
+            },
+            {
+                "model": "sn0wfrogs_capybaras:block/flowering_mandarin_leaves4"
+            },
+            {
+                "model": "sn0wfrogs_capybaras:block/flowering_mandarin_leaves4",
+                "y": 90
+            },
+            {
+                "model": "sn0wfrogs_capybaras:block/flowering_mandarin_leaves4",
+                "y": 180
+            },
+            {
+                "model": "sn0wfrogs_capybaras:block/flowering_mandarin_leaves4",
+                "y": 270
+            }
+        ]
+    }
+}

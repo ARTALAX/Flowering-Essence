@@ -1,0 +1,6 @@
+{
+    "parent": "freshfolage:block/leaves",
+    "textures": {
+        "all": "twilightforest:block/folage_transformation_leaves"
+    }
+}

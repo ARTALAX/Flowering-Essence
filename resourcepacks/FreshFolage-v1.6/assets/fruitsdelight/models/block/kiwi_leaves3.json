@@ -1,0 +1,6 @@
+{
+    "parent": "freshfolage:block/leaves3",
+    "textures": {
+        "all":"fruitsdelight:block/folage_kiwi_leaves"
+    }
+}

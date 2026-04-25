@@ -1,0 +1,6 @@
+{
+    "parent": "freshfolage:block/leaves",
+    "textures": {
+        "all": "biomesoplenty:block/rainbow_birch_leaves"
+    }
+}

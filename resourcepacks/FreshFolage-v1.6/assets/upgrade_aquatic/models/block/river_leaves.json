@@ -1,0 +1,6 @@
+{
+    "parent": "freshfolage:block/leaves",
+    "textures": {
+        "all":"upgrade_aquatic:block/folage_river_leaves"
+    }
+}

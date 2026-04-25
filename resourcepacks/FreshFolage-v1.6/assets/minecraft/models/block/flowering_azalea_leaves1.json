@@ -1,0 +1,6 @@
+{
+    "parent": "freshfolage:block/leaves_notint1",
+    "textures": {
+        "all": "minecraft:block/folage_flowering_azalea_leaves"
+    }
+}

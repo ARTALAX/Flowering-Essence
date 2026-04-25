@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "tropicraft:block/tall_mangrove_leaves1" },
+			{ "model": "tropicraft:block/tall_mangrove_leaves2" },
+			{ "model": "tropicraft:block/tall_mangrove_leaves3" },
+			{ "model": "tropicraft:block/tall_mangrove_leaves4" },
+			{ "model": "tropicraft:block/tall_mangrove_leaves5" },
+			{ "model": "tropicraft:block/tall_mangrove_leaves6" },
+			{ "model": "tropicraft:block/tall_mangrove_leaves7" },
+			{ "model": "tropicraft:block/tall_mangrove_leaves8" }
+		]
+    }
+}

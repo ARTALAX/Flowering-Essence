@@ -1,0 +1,6 @@
+{
+    "parent":"block/leaves2",
+    "textures": {
+        "0":"tropicraft:block/blue_flowering_leaves"
+    }
+}

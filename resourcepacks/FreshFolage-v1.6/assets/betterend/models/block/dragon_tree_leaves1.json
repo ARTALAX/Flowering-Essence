@@ -1,0 +1,6 @@
+{
+    "parent": "freshfolage:block/leaves1",
+    "textures": {
+        "all": "betterend:block/folage_dragon_tree_leaves"
+    }
+}

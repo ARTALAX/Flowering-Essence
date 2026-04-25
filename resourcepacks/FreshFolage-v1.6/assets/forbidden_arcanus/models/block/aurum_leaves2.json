@@ -1,0 +1,6 @@
+{
+    "parent": "freshfolage:block/leaves2",
+    "textures": {
+        "all": "ecologics:block/folage_aurum_leaves"
+    }
+}

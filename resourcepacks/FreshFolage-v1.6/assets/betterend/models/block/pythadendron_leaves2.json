@@ -1,0 +1,6 @@
+{
+    "parent": "freshfolage:block/leaves2",
+    "textures": {
+        "all": "betterend:block/folage_pythadendron_leaves"
+    }
+}

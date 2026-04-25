@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "atmospheric:block/flowering_morado_leaves1" },
+			{ "model": "atmospheric:block/flowering_morado_leaves2" },
+			{ "model": "atmospheric:block/flowering_morado_leaves3" },
+			{ "model": "atmospheric:block/flowering_morado_leaves4" },
+			{ "model": "atmospheric:block/flowering_morado_leaves5" },
+			{ "model": "atmospheric:block/flowering_morado_leaves6" },
+			{ "model": "atmospheric:block/flowering_morado_leaves7" },
+			{ "model": "atmospheric:block/flowering_morado_leaves8" }
+		]
+    }
+}

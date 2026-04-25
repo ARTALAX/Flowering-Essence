@@ -1,0 +1,7 @@
+{
+  "parent": "quark:block/hedge_post",
+  "textures": {
+    "log": "everycomp:block/pine_log",
+    "leaf": "everycomp:block/pine_leaves"
+  }
+}

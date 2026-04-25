@@ -1,0 +1,18 @@
+filename = 'IterationRP-Shaders-v0.8.7.zip'
+name = 'IterationT­­­ Shaders­­­­­­­­­­'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.20.1', '1.21.1', '1.21.4', '1.21.5', '1.21.8', '1.21.10' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'IterationRP-Shaders-v0.8.7.zip'
+
+[download]
+hash = 'ff4ed4f51d11710fcff2fa616d0beb4c66e9c923'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7253808
+project-id = 1316683

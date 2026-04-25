@@ -1,0 +1,17 @@
+filename = 'Luminous1.4.zip'
+name = 'Luminous'
+side = ''
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Luminous 1.20.1 v1.4'
+
+[download]
+hash = '3fc7da54e0ea45d6901b878c1d579dd2a79e2608'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5336431
+project-id = 438326

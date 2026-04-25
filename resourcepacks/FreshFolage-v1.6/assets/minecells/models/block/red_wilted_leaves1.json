@@ -1,0 +1,6 @@
+{
+    "parent": "freshfolage:block/leaves1",
+    "textures": {
+        "all": "minecells:block/folage_red_wilted_leaves"
+    }
+}

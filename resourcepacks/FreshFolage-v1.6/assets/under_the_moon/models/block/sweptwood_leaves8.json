@@ -1,0 +1,6 @@
+{
+    "parent":"block/leaves8",
+    "textures": {
+        "0":"under_the_moon:block/sweptwood_leaves"
+    }
+}

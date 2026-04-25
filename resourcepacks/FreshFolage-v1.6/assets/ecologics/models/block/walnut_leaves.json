@@ -1,0 +1,6 @@
+{
+    "parent": "freshfolage:block/leaves",
+    "textures": {
+        "all": "ecologics:block/folage_walnut_leaves"
+    }
+}

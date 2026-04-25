@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "undergarden:block/wigglewood_leaves1" },
+			{ "model": "undergarden:block/wigglewood_leaves2" },
+			{ "model": "undergarden:block/wigglewood_leaves3" },
+			{ "model": "undergarden:block/wigglewood_leaves4" },
+			{ "model": "undergarden:block/wigglewood_leaves5" },
+			{ "model": "undergarden:block/wigglewood_leaves6" },
+			{ "model": "undergarden:block/wigglewood_leaves7" },
+			{ "model": "undergarden:block/wigglewood_leaves8" }
+		]
+    }
+}

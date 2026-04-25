@@ -1,0 +1,43 @@
+filename = 'VTXS_Screen_Space_Demo_1.0.3.zip'
+name = 'VTXS Screen Space Demo'
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [
+    '1.19',
+    '1.19.1',
+    '1.19.2',
+    '1.19.3',
+    '1.19.4',
+    '1.20',
+    '1.20.1',
+    '1.20.2',
+    '1.20.3',
+    '1.20.4',
+    '1.20.5',
+    '1.20.6',
+    '1.21',
+    '1.21.1',
+    '1.21.2',
+    '1.21.3',
+    '1.21.4',
+    '1.21.5',
+    '1.21.6',
+    '1.21.7',
+    '1.21.8',
+    '1.21.9',
+    '1.21.10',
+    '1.21.11'
+]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '1.0.3'
+
+[download]
+hash = 'b2226dbbd0b488a3e9c7b6ce8e883ddf0993a2d9905c5b9fc2fe48ebab509f31a7998b9f86c15791029f84b27b65445e68d35922eafb757e7d2b8f4d1b613f6a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/DIAdpUOD/versions/hZqUaZle/VTXS_Screen_Space_Demo_1.0.3.zip'
+
+[update.modrinth]
+mod-id = 'DIAdpUOD'
+version = 'hZqUaZle'

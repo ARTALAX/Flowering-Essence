@@ -1,0 +1,17 @@
+filename = 'Stay True 1.21.5.zip'
+name = 'Stay True'
+side = ''
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.21.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Stay True 1.21.5'
+
+[download]
+hash = '19f9bac107c244a2d4f5dfb8a5203f67b21b4618'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6503699
+project-id = 353554

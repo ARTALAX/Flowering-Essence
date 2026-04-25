@@ -1,0 +1,6 @@
+{
+    "parent": "freshfolage:block/leaves2",
+    "textures": {
+        "all":"autumnity:block/folage_maple_leaves"
+    }
+}

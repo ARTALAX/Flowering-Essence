@@ -1,0 +1,6 @@
+{
+    "parent": "freshfolage:block/leaves",
+    "textures": {
+        "all": "forbidden_arcanus:block/folage_aurum_leaves"
+    }
+}

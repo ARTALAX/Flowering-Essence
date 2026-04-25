@@ -1,0 +1,66 @@
+{
+    "variants": {
+        "": [
+            {
+                "model": "arts_and_crafts:block/cork_leaves1"
+            },
+            {
+                "model": "arts_and_crafts:block/cork_leaves1",
+                "y": 90
+            },
+            {
+                "model": "arts_and_crafts:block/cork_leaves1",
+                "y": 180
+            },
+            {
+                "model": "arts_and_crafts:block/cork_leaves1",
+                "y": 270
+            },
+            {
+                "model": "arts_and_crafts:block/cork_leaves2"
+            },
+            {
+                "model": "arts_and_crafts:block/cork_leaves2",
+                "y": 90
+            },
+            {
+                "model": "arts_and_crafts:block/cork_leaves2",
+                "y": 180
+            },
+            {
+                "model": "arts_and_crafts:block/cork_leaves2",
+                "y": 270
+            },
+            {
+                "model": "arts_and_crafts:block/cork_leaves3"
+            },
+            {
+                "model": "arts_and_crafts:block/cork_leaves3",
+                "y": 90
+            },
+            {
+                "model": "arts_and_crafts:block/cork_leaves3",
+                "y": 180
+            },
+            {
+                "model": "arts_and_crafts:block/cork_leaves3",
+                "y": 270
+            },
+            {
+                "model": "arts_and_crafts:block/cork_leaves4"
+            },
+            {
+                "model": "arts_and_crafts:block/cork_leaves4",
+                "y": 90
+            },
+            {
+                "model": "arts_and_crafts:block/cork_leaves4",
+                "y": 180
+            },
+            {
+                "model": "arts_and_crafts:block/cork_leaves4",
+                "y": 270
+            }
+        ]
+    }
+}

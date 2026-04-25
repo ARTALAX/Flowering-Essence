@@ -1,0 +1,6 @@
+{
+    "parent": "freshfolage:block/leaves",
+    "textures": {
+        "all": "biomesoplenty:block/folage_jacaranda_leaves"
+    }
+}

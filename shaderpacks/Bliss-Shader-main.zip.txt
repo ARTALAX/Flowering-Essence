@@ -1,0 +1,17 @@
+#Fri Apr 10 22:00:14 MSK 2026
+BIOME_TINT_WATER=true
+LPV_COLORED_CANDLES=true
+LPV_ENABLED=true
+LPV_VL_FOG_ILLUMINATION=true
+MATERIAL_AO=true
+MISC_BLOCK_SSS=true
+MOB_SSS=true
+MOTION_BLUR=true
+MOTION_BLUR_STRENGTH=5.0
+POM=true
+Porosity=true
+Screen_Space_Reflections=true
+Sky_reflection=true
+Specular_Reflections=true
+TRANSLUCENT_COLORED_SHADOWS=true
+shadowMapResolution=1024

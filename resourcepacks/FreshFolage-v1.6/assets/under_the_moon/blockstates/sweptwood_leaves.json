@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "under_the_moon:block/sweptwood_leaves1" },
+			{ "model": "under_the_moon:block/sweptwood_leaves2" },
+			{ "model": "under_the_moon:block/sweptwood_leaves3" },
+			{ "model": "under_the_moon:block/sweptwood_leaves4" },
+			{ "model": "under_the_moon:block/sweptwood_leaves5" },
+			{ "model": "under_the_moon:block/sweptwood_leaves6" },
+			{ "model": "under_the_moon:block/sweptwood_leaves7" },
+			{ "model": "under_the_moon:block/sweptwood_leaves8" }
+		]
+    }
+}

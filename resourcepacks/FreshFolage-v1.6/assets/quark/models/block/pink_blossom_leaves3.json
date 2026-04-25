@@ -1,0 +1,6 @@
+{
+    "parent": "freshfolage:block/leaves3",
+    "textures": {
+        "all":"quark:block/folage_pink_blossom_leaves"
+    }
+}

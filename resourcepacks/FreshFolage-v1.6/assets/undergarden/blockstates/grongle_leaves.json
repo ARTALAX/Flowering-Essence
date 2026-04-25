@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "undergarden:block/grongle_leaves1" },
+			{ "model": "undergarden:block/grongle_leaves2" },
+			{ "model": "undergarden:block/grongle_leaves3" },
+			{ "model": "undergarden:block/grongle_leaves4" },
+			{ "model": "undergarden:block/grongle_leaves5" },
+			{ "model": "undergarden:block/grongle_leaves6" },
+			{ "model": "undergarden:block/grongle_leaves7" },
+			{ "model": "undergarden:block/grongle_leaves8" }
+		]
+    }
+}

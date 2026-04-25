@@ -1,0 +1,18 @@
+filename = 'OPAL_v1.2.0.zip'
+name = 'OPAL Shaders'
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.20.6', '1.21.3', '1.21.4', '1.21.5', '1.21.10' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'v1.2.0'
+
+[download]
+hash = 'cff9f030905edb6eaabb8bb1edf15fd978f0e6b6fde98b50d4bfa1e6dde8bcbbbe7918accb604377e52098f6e1569d9e068066ca368e727d0b81b24097bb2748'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/w8N6pbsN/versions/xGLd4NPs/OPAL_v1.2.0.zip'
+
+[update.modrinth]
+mod-id = 'w8N6pbsN'
+version = 'xGLd4NPs'

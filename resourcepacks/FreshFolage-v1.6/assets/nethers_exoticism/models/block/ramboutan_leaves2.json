@@ -1,0 +1,7 @@
+{
+    "parent": "freshfolage:block/leaves2",
+    "textures": {
+        "all":"nethers_exoticism:block/folage_ramboutan_leaves"
+    },
+    "render_type": "cutout_mipped"
+  }

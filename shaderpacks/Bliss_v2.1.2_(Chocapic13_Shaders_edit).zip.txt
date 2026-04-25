@@ -1,0 +1,8 @@
+#Sun Apr 12 21:50:21 MSK 2026
+LPV_COLORED_CANDLES=true
+LPV_ENABLED=true
+LPV_VL_FOG_ILLUMINATION=true
+Porosity=true
+Screen_Space_Reflections=true
+Specular_Reflections=true
+TRANSLUCENT_COLORED_SHADOWS=true
