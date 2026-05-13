@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"false"
-resourcePacks:["vanilla","mod_resources","Moonlight Mods Dynamic Assets","fabric","generated/fragmentum_layer","scholar:chiseled_bookshelf_colored_books","scholar:colored_books","file/SE Vanilla Consistency 1.20.1.zip","obscure_tooltips/packs/vibrant_tooltips","eatinganimations_compat","black_icons","mod/subtle_effects:resourcepacks/biome_color_water_particles","continuity:glass_pane_culling_fix","continuity:default","delightful:overhauls","file/Deluxe Discs.zip","file/xali\u0027s potion v1.2.0.zip","file/xali\u0027s Potions Addon v1.0.zip","file/xali\u0027s enchanted book v1.0.0(1).zip","file/xali\u0027s Enchanted Books Addon v3 1.21.zip","file/updated_aquaculture-1.1.zip","file/lower_shield_1.14-1.20.4.zip","file/eatinganimations+ 1.10.zip","file/§eEating Animations More Compat.zip","file/corality-1-0-3.zip","file/boss-refreshed-v2-1.19-1.21 (2).zip","file/astraliyte-s-animated-textures-v1-4.zip","file/animated-items 1.21.x - v1.5.4.zip","file/[1.5] Enhanced Boss Bars.zip","file/Stay True 1.21.5.zip","file/NoBushyLeaves.zip","file/Simple Grass Flowers v1.9.6.zip","file/MandalasGUI+Modded_Dakmode_v4.5.zip","file/Mandala Utopia new.zip","file/MandalasGUI_Darkmode+Brewing_Guide_v3.zip","file/Better_Icons_1.18+.zip","file/Icons v.1.13.3.zip","file/Icon Branding Remover - For 1.8-1.21.8.zip","file/Luminous1.4.zip","file/LowOnFire v26.1§8.zip","file/cubic-sun-moon-v1.8.5.zip","file/RAYs_3D_Ladders_v2.0.zip","file/§eRTF+ v.2.5.1§0_§8§0.zip","file/§eMYRTF+ v.2.5.1§0_§8§0.zip","file/VanillaTweaks_r249141_MC1.21.x.zip"]
+resourcePacks:[]
 incompatibleResourcePacks:[]
 lastServer:26.66.239.117:3333
 lang:ru_ru
