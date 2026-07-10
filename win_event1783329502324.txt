@@ -1,0 +1,70 @@
+Detected that Windows reported recent critical or error events in the Application log,
+which can indicate that a process (including the Minecraft JVM) terminated unexpectedly.
+Scope: Application log; Levels: Error & Critical; Window: last ~15 seconds.
+
+If no java.exe (or related JVM processes) are listed below, you can disregard this message.
+To inspect these events manually:
+  1) Press Win+R, type "eventvwr.msc", press Enter.
+  2) Open "Windows Logs" → "Application".
+  3) Sort by Date and look for entries with Level = Error or Critical near the crash time.
+
+-----------------------
+Time: 2026-07-06 12:18:08.075 MSK
+Source: Microsoft-Windows-CAPI2
+Event ID: 4176
+Level: Error
+
+Message:
+  Не удалось выполнить операцию PFX, так как число AuthSafes выходит за пределы ожидаемого диапазона. Максимально допустимое значение: 200. Ошибочное значение: 588.
+
+
+Details:
+  - Data[1]: 200
+  - Data[2]: 588
+-----------------------
+
+-----------------------
+Time: 2026-07-06 12:18:08.104 MSK
+Source: Microsoft-Windows-CAPI2
+Event ID: 4176
+Level: Error
+
+Message:
+  Не удалось выполнить операцию PFX, так как число AuthSafes выходит за пределы ожидаемого диапазона. Максимально допустимое значение: 200. Ошибочное значение: 588.
+
+
+Details:
+  - Data[1]: 200
+  - Data[2]: 588
+-----------------------
+
+-----------------------
+Time: 2026-07-06 12:18:12.966 MSK
+Source: Microsoft-Windows-CAPI2
+Event ID: 4176
+Level: Error
+
+Message:
+  Не удалось выполнить операцию PFX, так как число AuthSafes выходит за пределы ожидаемого диапазона. Максимально допустимое значение: 200. Ошибочное значение: 588.
+
+
+Details:
+  - Data[1]: 200
+  - Data[2]: 588
+-----------------------
+
+-----------------------
+Time: 2026-07-06 12:18:13.007 MSK
+Source: Microsoft-Windows-CAPI2
+Event ID: 4176
+Level: Error
+
+Message:
+  Не удалось выполнить операцию PFX, так как число AuthSafes выходит за пределы ожидаемого диапазона. Максимально допустимое значение: 200. Ошибочное значение: 588.
+
+
+Details:
+  - Data[1]: 200
+  - Data[2]: 588
+-----------------------
+

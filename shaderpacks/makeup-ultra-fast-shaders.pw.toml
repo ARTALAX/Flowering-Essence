@@ -1,4 +1,4 @@
-filename = 'MakeUp-UltraFast-9.5b.zip'
+filename = 'MakeUp-UltraFast-9.5c.zip'
 name = 'MakeUp - Ultra Fast'
 side = ''
 x-prismlauncher-dependencies = []
@@ -53,17 +53,18 @@ x-prismlauncher-mc-versions = [
     '1.21.11',
     '26.1',
     '26.1.1',
-    '26.1.2'
+    '26.1.2',
+    '26.2'
 ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '9.5b'
+x-prismlauncher-version-number = '9.5c'
 
 [download]
-hash = 'c4052ae04dda5c11bfbc77146c45cc09556f32cb89e5bfd19f31dc5fa78b644fc32ef978ee476b728cc4e3ba10bb7cbb9e7e799329a506c2ad8e720c10f43018'
+hash = '67d3938a1ad27ee0951b63703cd638b9db36bcf92c66dfe7ffff4c01ac365e952bbf630af1bb5bbddde8a723e7fb287e88bf80fe0301c70f12b4ebe8546c7947'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/izsIPI7a/versions/V5pgSLtI/MakeUp-UltraFast-9.5b.zip'
+url = 'https://cdn.modrinth.com/data/izsIPI7a/versions/zt4eHisU/MakeUp-UltraFast-9.5c.zip'
 
 [update.modrinth]
 mod-id = 'izsIPI7a'
-version = 'V5pgSLtI'
+version = 'zt4eHisU'
